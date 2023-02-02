@@ -9,14 +9,14 @@ The project is divided in two parts.
 The first part of the project contains the following points: 
 
 1. Read the Datasets
-2.Statitics of the data
-3.Pre Processing the data
-4.Data Understanding
+2.  Statitics of the data
+3.  Pre Processing the data
+4.  Data Understanding
 
 The second part of the project contains the points:
 
-1.Data Understanding
-2.Feature Engineering
-3.Logistic Regression
+1.  Data Understanding
+2.  Feature Engineering
+3.  Logistic Regression
 
 
